@@ -1,0 +1,15 @@
+{
+  "name": "roost-textures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Wood <washwithcare@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pngjs": "^3.3.0",
+    "underscore.string": "^3.3.4"
+  }
+}
